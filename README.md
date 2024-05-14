@@ -1,4 +1,4 @@
-Boas vindas ao meu perfil👋Meu nome é Marcelo Paludetto
+Boas vindas ao meu perfil👋Meu nome é Karina Coelho
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
